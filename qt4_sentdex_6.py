@@ -32,6 +32,14 @@ class Window(QtGui.QMainWindow):
         btn.resize(btn.sizeHint())
         #btn.resize(btn.minimumSizeHint())
         btn.move (100,100)
+
+        #toolbar
+                                               #QAction(QIcon(icon), hover text, self)
+        quitAction = QtGui.QAction(QtGui.QIcon('todachoppa.png'),'Salir de TiendaBip',self)
+        quitAction.triggered.connect(self.close_application)
+
+        self.toolbar = self.addToolBar('TiendabipToolbar')
+        self.toolbar.addAction(quitAction)
         
         
         self.show()
