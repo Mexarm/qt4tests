@@ -1,5 +1,5 @@
 # qt4tests
-This is the code that i write following this " PyQT Python GUI Application Development with Python" tutotial
+This is the code that i write following this " PyQT Python GUI Application Development with Python" tutorial
 
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4
 
