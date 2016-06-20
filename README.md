@@ -15,7 +15,7 @@ $sudo apt-get install qt4-designer
 
 install pyuic4 tool
 
-$sudo apt-get install pyqt4-dev-tool
+$sudo apt-get install pyqt4-dev-tools
 
 
 
