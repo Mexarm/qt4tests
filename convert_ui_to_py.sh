@@ -1,0 +1,1 @@
+pyuic4 pyqtdesigner.ui -o pyqtdesigner_ui.py
