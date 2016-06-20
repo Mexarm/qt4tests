@@ -9,5 +9,15 @@ install pyqt4
 
 $sudo apt-get install python-qt4
 
+install qt designer
+
+$sudo apt-get install qt4-designer
+
+install pyuic4 tool
+
+$sudo apt-get install pyqt4-dev-tool
+
+
+
 
 
