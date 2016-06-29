@@ -6,7 +6,7 @@ class Window(QtGui.QMainWindow):
 
     def __init__(self):
         super(Window,self).__init__()
-        self.setGeometry(50,50,500,300)
+        #self.setGeometry(50,50,500,300)
         self.setWindowTitle("TiendaBip")
         self.setWindowIcon(QtGui.QIcon("icon.png"))
         self.home()
